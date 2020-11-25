@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\C_Sharp_Assessment2_OOP\bin\Debug\netcoreapp3.1\C_Sharp_Assessment2_OOP.exe
+C:\Users\HP\source\repos\C_Sharp_Assessment2_OOP\bin\Debug\netcoreapp3.1\C_Sharp_Assessment2_OOP.deps.json
+C:\Users\HP\source\repos\C_Sharp_Assessment2_OOP\bin\Debug\netcoreapp3.1\C_Sharp_Assessment2_OOP.runtimeconfig.json
+C:\Users\HP\source\repos\C_Sharp_Assessment2_OOP\bin\Debug\netcoreapp3.1\C_Sharp_Assessment2_OOP.runtimeconfig.dev.json
+C:\Users\HP\source\repos\C_Sharp_Assessment2_OOP\bin\Debug\netcoreapp3.1\C_Sharp_Assessment2_OOP.dll
+C:\Users\HP\source\repos\C_Sharp_Assessment2_OOP\bin\Debug\netcoreapp3.1\C_Sharp_Assessment2_OOP.pdb
+C:\Users\HP\source\repos\C_Sharp_Assessment2_OOP\obj\Debug\netcoreapp3.1\C_Sharp_Assessment2_OOP.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\C_Sharp_Assessment2_OOP\obj\Debug\netcoreapp3.1\C_Sharp_Assessment2_OOP.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C_Sharp_Assessment2_OOP\obj\Debug\netcoreapp3.1\C_Sharp_Assessment2_OOP.AssemblyInfo.cs
+C:\Users\HP\source\repos\C_Sharp_Assessment2_OOP\obj\Debug\netcoreapp3.1\C_Sharp_Assessment2_OOP.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C_Sharp_Assessment2_OOP\obj\Debug\netcoreapp3.1\C_Sharp_Assessment2_OOP.dll
+C:\Users\HP\source\repos\C_Sharp_Assessment2_OOP\obj\Debug\netcoreapp3.1\C_Sharp_Assessment2_OOP.pdb
+C:\Users\HP\source\repos\C_Sharp_Assessment2_OOP\obj\Debug\netcoreapp3.1\C_Sharp_Assessment2_OOP.genruntimeconfig.cache
