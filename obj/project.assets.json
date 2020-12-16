@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\C_Sharp_Assessment2_OOP\\C_Sharp_Assessment2_OOP.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\C#\\Assessment2\\C_Sharp_Assessment2_OOP\\C_Sharp_Assessment2_OOP.csproj",
       "projectName": "C_Sharp_Assessment2_OOP",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\C_Sharp_Assessment2_OOP\\C_Sharp_Assessment2_OOP.csproj",
+      "projectPath": "C:\\Users\\HP\\source\\repos\\C#\\Assessment2\\C_Sharp_Assessment2_OOP\\C_Sharp_Assessment2_OOP.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\C_Sharp_Assessment2_OOP\\obj\\",
+      "outputPath": "C:\\Users\\HP\\source\\repos\\C#\\Assessment2\\C_Sharp_Assessment2_OOP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
